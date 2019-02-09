@@ -1,0 +1,11 @@
+I. Rendón-Salgado, E. Ramírez-Cruz, R. Gutiérrez-Castrejón,
+640 Gb/s all-optical AND gate and wavelength converter using bulk SOA turbo–switched Mach–Zehnder interferometer with improved differential scheme,
+Optics & Laser Technology,
+Volume 109,
+2019,
+Pages 671-681,
+ISSN 0030-3992,
+https://doi.org/10.1016/j.optlastec.2018.08.055.
+(http://www.sciencedirect.com/science/article/pii/S0030399218301774)
+Abstract: An enhanced version of the conventional differential scheme, employed to decouple the switching speed of an active Mach-Zehnder interferometer from the recovery time of its main nonlinear element (a bulk semiconductor optical amplifier, or SOA), is presented and numerically analyzed. A turbo-switch is also included within the scheme for speed boost and performance improvement. Through the use of the novel architecture and following a parameter optimization process, an all-optical AND Boolean gate operating error-free at 640 Gb/s is numerically demonstrated, thus becoming the fastest AND gate based on bulk SOAs. Additionally, the role of key design parameters in the switching-window formation process is investigated. It is shown that the delay and attenuation applied to the waveform traveling in the opposite interferometer arm play an appreciable role in decreasing data-patterning effects and thus improving the quality-factor and performance of the overall subsystem. An empirical linear relation between performance and operation speed for the proposed scheme is put forward. Finally, it is demonstrated that the proposed structure can also operate error-free at 640 Gb/s as an all-optical wavelength converter. Our simulation work represents a step forward to leverage the use of SOA-based interferometric structures for all-optical signal processing.
+Keywords: All-optical AND logic gate; Cross phase modulation (XPM); Mach-Zehnder interferometer (MZI); All-optical wavelength conversion; Semiconductor optical amplifier (SOA)
